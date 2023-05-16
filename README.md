@@ -25,7 +25,7 @@ I have worked with a variety of languages and tools, and my current focus is on 
 
 Here are a few projects I've worked on that I enjoyed the most:
 
-- [**Minecraft-AWS-Server**](https://github.com/Klyde-Moradeyo/election-web-app): This project features a Terraform AWS infrastructure utilizing various AWS services, and includes a Discord bot written in Python that allows users to interact with the server. The AWS services used are EC2, S3, Lambda, API Gateway, Elastic Container Servie(ECS), Elastic IP, IAM roles and policy.
+- [**Minecraft-AWS-Server**](https://github.com/Klyde-Moradeyo/minecraft-AWS-server): This project features a Terraform AWS infrastructure utilizing various AWS services, and includes a Discord bot written in Python that allows users to interact with the server. The AWS services used are EC2, S3, Lambda, API Gateway, Elastic Container Servie(ECS), Elastic IP, IAM roles and policy.
 - [**Highly Available Kubernetes Deployment**](https://github.com/Klyde-Moradeyo/k8-go-redis-service): A reliable Kubernetes deployment of a Go service and a secure Redis database.
 - [**Election Web App**](https://github.com/Klyde-Moradeyo/election-web-app): A Ruby on Rails application that showcases different electoral algorithms used worldwide, is developed with a cloud-native CI/CD pipeline powered by Jenkins X. The pipeline seamlessly integrates Kubernetes, Helm, Tekton, AWS services, and Terraform, enabling efficient development and deployment practices alongside the application. 
 
