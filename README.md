@@ -4,7 +4,7 @@
 
 I'm a passionate DevOps Engineer based in London. I enjoy building and managing cloud infrastructures, optimizing processes, and automating repetitive tasks.
 
-[![Linkedin: Klyde Moradeyo](https://img.shields.io/badge/-Klyde%20Moradeyo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/klyde-moradeyo-349847197/)](https://www.linkedin.com/in/klyde-moradeyo-349847197/)
+[![Linkedin: Klyde Moradeyo](https://img.shields.io/badge/-Klyde%20Moradeyo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/klyde-moradeyo/)](https://www.linkedin.com/in/klyde-moradeyo-349847197/)
 [![GitHub Klyde-Moradeyo](https://img.shields.io/github/followers/Klyde-Moradeyo?label=follow&style=social)](https://github.com/Klyde-Moradeyo)
 
 ## 🧰 Tech Stack
