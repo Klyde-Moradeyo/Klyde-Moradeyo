@@ -19,8 +19,6 @@ I have worked with a variety of languages and tools, and my current focus is on 
 | Groovy       | Kubernetes             | Prometheus          | -                 |
 | -            | Docker                 | ELK Stack           | -                 |
 | -            | -                      | ArgoCD              | -                 |
-| -            | -                      | -                   | -                 |
-
 
 ## 📚 Projects
 
