@@ -14,11 +14,12 @@ I have worked with a variety of languages and tools, and my current focus is on 
 | Languages    | Cloud & Infrastructure | CI/CD & Monitoring  | Operating Systems |
 |--------------|------------------------|---------------------|-------------------|
 | Python       | AWS                    | Jenkins / Jenkins X | Linux             |
-| Shell Script | Azure                  | GitHub Actions      | Windows           |
+| Bash         | Azure                  | GitHub Actions      | Windows           |
 | Ruby         | Terraform              | Grafana             | -                 |
 | Groovy       | Kubernetes             | Prometheus          | -                 |
-| Bash         | Docker                 | ELK Stack           | -                 |
-| -            | ArgoCD                 | Tekton              | -                 |
+| -            | Docker                 | ELK Stack           | -                 |
+| -            | -                      | ArgoCD              | -                 |
+| -            | -                      | -                   | -                 |
 
 
 ## 📚 Projects
